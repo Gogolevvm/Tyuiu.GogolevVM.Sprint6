@@ -1,0 +1,12 @@
+﻿using Tyuiu.GogolevVM.Sprint6.Task1.V25.Lib;
+namespace Tyuiu.GogolevVM.Sprint6.Task1.V25.Test
+{
+    [TestClass]
+    public sealed class DataServiceTest
+    {
+        [TestMethod]
+        public void TestMethod1()
+        {
+        }
+    }
+}
