@@ -143,6 +143,7 @@
             textBoxResult.ScrollBars = ScrollBars.Vertical;
             textBoxResult.Size = new Size(316, 342);
             textBoxResult.TabIndex = 10;
+            textBoxResult.TextChanged += textBoxResult_TextChanged;
             // 
             // FormMain
             // 

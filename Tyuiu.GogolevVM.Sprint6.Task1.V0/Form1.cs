@@ -54,5 +54,10 @@ namespace Tyuiu.GogolevVM.Sprint6.Task1.V0
         {
             MessageBox.Show("Таск 1 выполнил студент группы АСОиУБ-25-1 Гоголев Всеволод Михайлович", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void textBoxResult_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
