@@ -21,7 +21,7 @@ namespace Tyuiu.GogolevVM.Sprint6.Task3.V24
 
             for (int i = 0; i < columns; i++)
             {
-                dataGridViewMatric_GVM.Columns[i].Width = 25;
+                dataGridViewMatric_GVM.Columns[i].Width = 45;
             }
 
             for (int i = 0; i < rows; i++)
