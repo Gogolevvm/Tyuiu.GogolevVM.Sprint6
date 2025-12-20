@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.GogolevVM.Sprint6.Task4.V0.Test
+﻿namespace Tyuiu.GogolevVM.Sprint6.Task5.V0.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -6,7 +6,6 @@
         [TestMethod]
         public void TestMethod1()
         {
-            
         }
     }
 }
